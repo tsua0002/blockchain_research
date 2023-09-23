@@ -4,14 +4,14 @@ __Thomas Suau__26/08/23__
 
 ## Fundamental part
 
-The very technical part is important to : \
+The very technical part is important to : 
 - Show the power of institue and members into it. 
 
-i) Command Line Interface (CLI) to deploy object (script or code) on-chain and interact with existing entities.\ 
+i) Command Line Interface (CLI) to deploy object (script or code) on-chain and interact with existing entities. 
 - How to call a function deployed in a contract (EVM-like) in CLI ?
 - How to compile and send on the network a Smart Contract (solidity) ?
 - How to deploy Bitcoin script and relay it on-chain ?
-- Questions around Nodes monitoring (geth, other clients? and bitcoind).
+- Questions around Nodes monitoring (`geth`, other clients? and `bitcoind`).
 
 ii) Development section. Provide a top to date frameworks, libraries and tools in blockchain development.
 - What are the last typescript development framework ? Make a presentation of [`viem` ts package](https://yarnpkg.com/package?name=viem).
@@ -31,11 +31,11 @@ I think the most harder and technical part. The goal is to talk and produce rese
 - What are the actual proof of soundness for major Blockchain protocols ? (Bitcoin, Ethereum, EVM-like, Cardano, ...)
 - What is the link between layer 1 and 2 assuming Layer 1 is sound under basic Diffie-Helmann assumptions (DH-assumptions) ?
 - Make a study about Lightning Network and Discret Log Problem equivalence (soundness). 
-- Describe the use of Zero-Knowledge Proof protocols in Ethereum Layer 2 (like Starknet, or Zk-Polygon). (/contacts and refs/)
+- Describe the use of Zero-Knowledge Proof protocols in Ethereum Layer 2 (like Starknet, or Zk-Polygon). 
 - Description of main consensus mechanisms. Are Directed Acyclics Graphs (DAGs) impact consensus mechanisms and how ? 
 - Consensus mechanisms regards to Proof of Stake.
 - What are the consequences of consensus mechanism in Blockchain development ?
-- Cryptography and architecture : closing session.
+- Cryptography and architecture : an hollistic conclusion.
 
 
 ## Applied part
@@ -47,7 +47,7 @@ v) Technical application. The goal of this short section is to make the link bet
 
 vi) Economy. This part is to wonder economic principles in regards of Blockchain development.
 1. Theory
-- What is the actual money theory ? (By referenced and different economists)
+- What is the actual money theory ? (In academic prospective)
 - What is the economy created by Bitcoin ?
 - What is the economy created by Proof of Stake consensus mechanism ? 
 - What is the link with numeric economy ?
@@ -81,35 +81,34 @@ This part is mainly notes for myself but it can be interesting to take a look ab
 
 ### Publications target
 
-- ethereum stack exchange
+- [Ethereum Stack Exchange](https://ethereum.stackexchange.com/)
 
-- bitcoin-dev Digest
+- [bitcoin-dev Digest](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/)
 
 - [Blockchain : Research and applications](https://www.sciencedirect.com/journal/blockchain-research-and-applications)
 
 - [Frontiers](https://www.frontiersin.org/journals/blockchain)
 
-- [Blockchain Journal](https://blockchainjournal.com/articles/) (moins universitaire) 
+- [Blockchain Journal](https://blockchainjournal.com/articles/) (less academic) 
 
 - [Blockchain](https://www.elspub.com/journals/blockchain/home)
 
 - [International Journal of Blockchain and cryptocurrencies](https://www.inderscience.com/jhome.php?jcode=ijbc)
 
-- [blockchains](https://www.mdpi.com/journal/blockchains)(un tres jeune journal universitaire)
+- [blockchains](https://www.mdpi.com/journal/blockchains)(very young journal)
 
 ### Storage/Data sharing
 
 - [Bitbucket](https://bitbucket.org/)
 
-- [Youtube](https://youtu.be)
+- [THETA.tv](https://www.theta.tv/) : Decentralised streaming platform
 
-- Decentralised video platform
+- [Odysee](https://odysee.com/) : Decentralised video platform
 
-- Nostr can be a storage system for small publications.
+- [Nostr](https://www.nostrapps.com/) can be a storage system for small publications.
 
 
 ### Fundings
-We have to define a VC target and a currency in which we prefer to be paid. Is it Euros ? Is it Bitcoin ? Is it ETH ? We don't care ?
 
 - Gitcoin
 
