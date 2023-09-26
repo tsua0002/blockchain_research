@@ -4,9 +4,6 @@ __Thomas Suau__26/08/23__
 
 ## Fundamental part
 
-The very technical part is important to : 
-- Show the power of institue and members into it. 
-
 i) Command Line Interface (CLI) to deploy object (script or code) on-chain and interact with existing entities. 
 - How to call a function deployed in a contract (EVM-like) in CLI ?
 - How to compile and send on the network a Smart Contract (solidity) ?
