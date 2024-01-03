@@ -109,7 +109,7 @@ This part is mainly notes for myself but it can be interesting to take a look ab
 
 - Gitcoin
 
-- [Geyzer Bitcoin crowdfunding](https://geyzer.fund)
+- [Geyser Bitcoin crowdfunding](https://geyser.fund)
 
 - Cardano research fundings
 
