@@ -2,6 +2,9 @@
 
 __Thomas Suau__26/08/23__
 
+Some of those questions are partially answered from developers point of view, but still no academic answer. If you are a professor interested by this topic feel free to [send me an email](mailto:thom.suau@orange.fr?subject=Research%20blockchain%20discussion) to discuss further about possible researchs. 
+This plan and especially fundamental part should be regarded from fundamental understanding point of view. Not from some random tools which apparently solve the question. 
+
 ## Fundamental part
 
 i) Command Line Interface (CLI) to deploy object (script or code) on-chain and interact with existing entities. 
@@ -19,7 +22,7 @@ ii) Development section. Provide a top to date frameworks, libraries and tools i
 iii) Lecture and representation of on-chain data.
 - Make use of CLI tools to extract on-chain data.
 - State of the art ?
-- How GraphQL or other NoSQL language can be used to represent on-chain data ? (geth GraphQL integration). *Small talk about [Arkham Blockchain Intelligence](https://www.arkhamintelligence.com/) : what tools ? what discovers ? what community (some famous people)?*
+- How GraphQL or other NoSQL language can be used to represent on-chain data ? (geth GraphQL integration). *Small talk about [Arkham Blockchain Intelligence](https://www.arkhamintelligence.com/) : which tools ? what discovers ? which communities (some famous people)?*
 - Pb : retrieve deployed code from on-chain representations.
 
 iv) Cryptography and architecture challenges.
