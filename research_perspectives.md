@@ -11,7 +11,7 @@ i) Command Line Interface (CLI) to deploy object (script or code) on-chain and i
 - How to call a function deployed in a contract (EVM-like) in CLI ?
 - How to compile and send on the network a Smart Contract (solidity) ?
 - How to deploy Bitcoin script and relay it on-chain ?
-- Questions around Nodes monitoring (`geth`, other clients? and `bitcoind`).
+- Questions around Nodes monitoring (geth, other clients? and bitcoind).
 
 ii) Development section. Provide a top to date frameworks, libraries and tools in blockchain development.
 - What are the last typescript development framework ? Make a presentation of [`viem` ts package](https://yarnpkg.com/package?name=viem).
@@ -22,23 +22,24 @@ ii) Development section. Provide a top to date frameworks, libraries and tools i
 iii) Lecture and representation of on-chain data.
 - Make use of CLI tools to extract on-chain data.
 - State of the art ?
-- How GraphQL or other NoSQL language can be used to represent on-chain data ? (geth GraphQL integration). *Small talk about [Arkham Blockchain Intelligence](https://www.arkhamintelligence.com/) : which tools ? what discovers ? which communities (some famous people)?*
+- How GraphQL or other NoSQL language can be used to represent on-chain data ? (geth GraphQL integration). *Small talk about [Arkham Blockchain Intelligence](https://www.arkhamintelligence.com/) : what tools ? what discovers ? what community (some famous people)?*
 - Pb : retrieve deployed code from on-chain representations.
 
 iv) Cryptography and architecture challenges.
 I think the most harder and technical part. The goal is to talk and produce research about cryptographic securities consideration and consensus mechanisms.
 - What is mean secure ?
+- Post-quantum cryptography (Christophe Petit)
 - What are the actual proof of soundness for major Blockchain protocols ? (Bitcoin, Ethereum, EVM-like, Cardano, ...)
 - What is the link between layer 1 and 2 assuming Layer 1 is sound under basic Diffie-Helmann assumptions (DH-assumptions) ?
 - Make a study about Lightning Network and Discret Log Problem equivalence (soundness). 
-- Describe the use of Zero-Knowledge Proof protocols in Ethereum Layer 2 (like Starknet, or Zk-Polygon). 
+- Describe the use of Zero-Knowledge Proof protocols in Ethereum Layer 2 (like Starknet, or Zk-Polygon). (/contacts and refs/)
 - Description of main consensus mechanisms. Are Directed Acyclics Graphs (DAGs) impact consensus mechanisms and how ? 
 - Consensus mechanisms regards to Proof of Stake.
 - What are the consequences of consensus mechanism in Blockchain development ?
-- Cryptography and architecture : an hollistic conclusion.
+- Cryptography and architecture : closing session.
 
 
-## Applied part
+### Applied part
 
 v) Technical application. The goal of this short section is to make the link between each previous part.
 - From consensus to smart contract : How to make use of each parts ?
@@ -47,7 +48,7 @@ v) Technical application. The goal of this short section is to make the link bet
 
 vi) Economy. This part is to wonder economic principles in regards of Blockchain development.
 1. Theory
-- What is the actual money theory ? (In academic prospective)
+- What is the actual money theory ? (By referenced and different economists)
 - What is the economy created by Bitcoin ?
 - What is the economy created by Proof of Stake consensus mechanism ? 
 - What is the link with numeric economy ?
@@ -69,11 +70,14 @@ vii) Law and fiscality. This section should presents state of the art about Law 
 viii) Health considerations. With the growing importance of pharmaceutical industry and health problems the blockchain technology could apparently be a good solution. 
 - What are the main actual uses cases for blockchain based solutions ?
 - What use can we make of zk-proof in medical records management ?
+- CRISPR, gene management, genomics, 
+- Protection for genetic centralisation data
+
 
 ix) Computer's applications. AI, system administration, authentification, shared computation,... This section as the last one could join all the meetings in every computers based considerations related to the blockchain technologies. 
 - Show where the blockchain is fundamentally inneficient. Show the major purposes of blockchain technology and its tools. Present first blockchain-based solutions to computers problems.
 - What links can be do between AI and blockchain ? How Blockchain technology and AI can be joined (used together) ? Present actual state of the art in this field. Make some Pytorch and smart contract interaction in live.
-- What about shared blockchain-based storage like IPFS and ARwave ? What about shared computation through blockchain rewarding system ? Calculus for astronomy, for biology, etc.  
+- What about shared blockchain-based storage like IPFS and ARwave ? What about shared computation through blockchain rewarding system ? Calculus for astronomy, for biology, etc.
 
 ## Some references
 
