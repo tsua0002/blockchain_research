@@ -1,16 +1,18 @@
 # Draft plan for Blockchain based research
 
-__Thomas Suau__26/08/23__
+*First draft*: __Thomas Suau__26/08/23__
 
 Some of those questions are partially answered from developers point of view, but still no academic answer. If you are a professor interested by this topic feel free to [send me an email](mailto:thom.suau@orange.fr?subject=Research%20blockchain%20discussion) to discuss further about possible researchs. 
 This plan and especially fundamental part should be regarded from fundamental understanding point of view. Not from some random tools which apparently solve the question. 
+
+*Remark: Each of these questions need to be clarified. They are general and can't be answered as is. For each question a preliminary contextualization work is required.*
 
 ## Fundamental part
 
 i) Command Line Interface (CLI) to deploy object (script or code) on-chain and interact with existing entities. 
 - How to call a function deployed in a contract (EVM-like) in CLI?
 - How to compile and send on the network a Smart Contract (solidity)?
-- How to deploy Bitcoin script and relay it on-chain?
+- How to produce Bitcoin script in Raw messages?
 - Questions around Nodes monitoring (geth, other clients? and bitcoind).
 
 ii) Development section. Provide a top to date frameworks, libraries and tools in blockchain development.
@@ -24,6 +26,7 @@ iii) Lecture and representation of on-chain data.
 - State of the art?
 - How GraphQL or other NoSQL language can be used to represent on-chain data? (geth GraphQL integration). *Small talk about [Arkham Blockchain Intelligence](https://www.arkhamintelligence.com/) : what tools? what discovers? what community (some famous people)?*
 - Pb : retrieve deployed code from on-chain representations.
+- How to unlock Bitcoin Taproot capabilities?
 
 iv) Cryptography and architecture challenges.
 I think the most harder and technical part. The goal is to talk and produce research about cryptographic securities consideration and consensus mechanisms.
