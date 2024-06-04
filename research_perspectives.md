@@ -46,7 +46,7 @@ I think the hardest and most technical part. The goal is to talk and produce res
 
 v) Technical application. The goal of this short section is to make the link between each previous part.
 - From consensus to smart contract : How to make use of each parts?
-- What tools to use in all a blockchain development process?
+- Which tools to use in all a blockchain development process?
 - References and state of the art about blockchain development process? Research oriented? Business oriented?
 
 vi) Economy. This part is to wonder economic principles in regards of Blockchain development.
