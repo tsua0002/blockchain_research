@@ -29,7 +29,7 @@ iii) Lecture and representation of on-chain data.
 - How to unlock Bitcoin Taproot capabilities?
 
 iv) Cryptography and architecture challenges.
-I think the most harder and technical part. The goal is to talk and produce research about cryptographic securities consideration and consensus mechanisms.
+I think the hardest and most technical part. The goal is to talk and produce research about cryptographic securities consideration and consensus mechanisms.
 - What is mean secure?
 - Post-quantum cryptography (Christophe Petit)
 - What are the actual proof of soundness for major Blockchain protocols? (Bitcoin, Ethereum, EVM-like, Cardano, ...)
