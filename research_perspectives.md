@@ -35,11 +35,11 @@ I think the hardest and most technical part. The goal is to talk and produce res
 - What are the actual proof of soundness for major Blockchain protocols? (Bitcoin, Ethereum, EVM-like, Cardano, ...)
 - What is the link between layer 1 and 2 assuming Layer 1 is sound under basic Diffie-Helmann assumptions (DH-assumptions)?
 - Make a study about Lightning Network and Discret Log Problem equivalence (soundness). 
-- Describe the use of Zero-Knowledge Proof protocols in Ethereum Layer 2 (like Starknet, or Zk-Polygon). (/contacts and refs/)
+- Describe the use of Zero-Knowledge Proof protocols in Ethereum Layer 2 (like Starknet, or Zk-Polygon).
 - Description of main consensus mechanisms. Are Directed Acyclics Graphs (DAGs) impact consensus mechanisms and how? 
 - Consensus mechanisms regards to Proof of Stake.
 - What are the consequences of consensus mechanism in Blockchain development?
-- Cryptography and architecture : closing session.
+- Cryptography and architecture: general overview. 
 
 
 ### Applied part
