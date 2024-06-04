@@ -149,7 +149,7 @@ Crypto Group, Cloud and Large Scale computing group, Image and Signal Processing
 - [Blockchain for Europe](https://www.blockchain4europe.eu/) : A Brussels based membership organization for companies driving innovation, integrity and empowerment through blockchain.
 We work with policymakers, academics and our member companies to develop a European regulatory framework to support and promote blockchain-based innovation.
 
-- [Brussels Blockchain Week](https://blockchainweek.be/) : The biggest blockchain event in Brussels each June.
+- [Brussels Blockchain Week](https://blockchainweek.be/) : The biggest blockchain event in Brussels each years. Focus on regulations. 
 
 
 
